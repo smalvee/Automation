@@ -1,0 +1,242 @@
+1666385388986	geckodriver	INFO	Listening on 127.0.0.1:61916
+1666385392057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilez9zIpO"
+1666385392594	Marionette	INFO	Marionette enabled
+1666385392597	Marionette	INFO	Listening on port 61926
+Read port: 61926
+WebDriver BiDi listening on ws://127.0.0.1:61917
+1666385392732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilez9zIpO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61917/devtools/browser/223530b5-2973-429f-89ac-620284df8bd2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666385398675	Marionette	INFO	Stopped listening on port 61926
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666385412492	geckodriver	INFO	Listening on 127.0.0.1:61962
+1666385415529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilefAWqsd"
+1666385415746	Marionette	INFO	Marionette enabled
+1666385415749	Marionette	INFO	Listening on port 61972
+WebDriver BiDi listening on ws://127.0.0.1:61963
+Read port: 61972
+1666385415972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilefAWqsd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61963/devtools/browser/66ac78b3-70f7-4a64-a99e-d46437d263b8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666385696506	Marionette	INFO	Stopped listening on port 61972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileUWLh4J"
+1666385494565	Marionette	INFO	Marionette enabled
+1666385494568	Marionette	INFO	Listening on port 62123
+WebDriver BiDi listening on ws://127.0.0.1:62114
+Read port: 62123
+1666385494786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileUWLh4J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62114/devtools/browser/ad24612d-d8d4-45cc-abd3-438ccea70a29
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666385697392	Marionette	INFO	Stopped listening on port 62123
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile2YzvrJ"
+1666385550072	Marionette	INFO	Marionette enabled
+1666385550075	Marionette	INFO	Listening on port 62647
+WebDriver BiDi listening on ws://127.0.0.1:62638
+Read port: 62647
+1666385550295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile2YzvrJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62638/devtools/browser/f6d6382e-d3d5-4736-ae30-c90407d72098
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666385580771	Marionette	INFO	Stopped listening on port 62647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666385626010	geckodriver	INFO	Listening on 127.0.0.1:62935
+1666385629060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile5hfxPU"
+1666385629278	Marionette	INFO	Marionette enabled
+1666385629281	Marionette	INFO	Listening on port 62945
+WebDriver BiDi listening on ws://127.0.0.1:62936
+Read port: 62945
+1666385629491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile5hfxPU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62936/devtools/browser/5945c8b1-9d78-4ce4-8b95-83eb5b71c2c2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666385742542	Marionette	INFO	Stopped listening on port 62945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666385748841	geckodriver	INFO	Listening on 127.0.0.1:63336
+1666385751888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile63xVoW"
+1666385752108	Marionette	INFO	Marionette enabled
+1666385752111	Marionette	INFO	Listening on port 63347
+WebDriver BiDi listening on ws://127.0.0.1:63337
+Read port: 63347
+1666385752332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile63xVoW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63337/devtools/browser/8f782c39-1af6-4100-b476-3dea22875cfd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666386030239	Marionette	INFO	Stopped listening on port 63347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666386033553	geckodriver	INFO	Listening on 127.0.0.1:63546
+1666386036599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileGqdmcE"
+1666386036816	Marionette	INFO	Marionette enabled
+1666386036820	Marionette	INFO	Listening on port 63556
+WebDriver BiDi listening on ws://127.0.0.1:63547
+Read port: 63556
+1666386037042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileGqdmcE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63547/devtools/browser/bc96a9ca-d4be-497c-b8b1-1ba2000608c9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666386236302	Marionette	INFO	Stopped listening on port 63556
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Listening on port 63928
+WebDriver BiDi listening on ws://127.0.0.1:63919
+Read port: 63928
+1666386232019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofile6oM5p9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63919/devtools/browser/87ffe259-345d-4685-a6aa-f6614a35e326
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666387525396	Marionette	INFO	Stopped listening on port 63928
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+6669	Marionette	INFO	Marionette enabled
+1666386326672	Marionette	INFO	Listening on port 64302
+WebDriver BiDi listening on ws://127.0.0.1:64288
+Read port: 64302
+1666386326899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilepISVef\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64288/devtools/browser/361b763f-8cd8-41e8-8354-ac3c9783843c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666386616523	Marionette	INFO	Stopped listening on port 64302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666386619291	geckodriver	INFO	Listening on 127.0.0.1:64680
+1666386622343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileWxlw1Y"
+1666386622563	Marionette	INFO	Marionette enabled
+1666386622566	Marionette	INFO	Listening on port 64693
+WebDriver BiDi listening on ws://127.0.0.1:64681
+Read port: 64693
+1666386622787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileWxlw1Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64681/devtools/browser/51f77410-dbfe-455a-bdbd-071cc9e8fa66
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1666386868726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileQ5VXhC"
+1666386868948	Marionette	INFO	Marionette enabled
+1666386868951	Marionette	INFO	Listening on port 65077
+WebDriver BiDi listening on ws://127.0.0.1:65068
+Read port: 65077
+1666386869177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileQ5VXhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65068/devtools/browser/6837e2e4-40fe-4e4a-bc94-a19fec98ce86
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666387010126	Marionette	INFO	Stopped listening on port 65077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666387013185	geckodriver	INFO	Listening on 127.0.0.1:65271
+1666387016216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilepr3Bbw"
+1666387016431	Marionette	INFO	Marionette enabled
+1666387016434	Marionette	INFO	Listening on port 65281
+Read port: 65281
+WebDriver BiDi listening on ws://127.0.0.1:65272
+1666387016599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilepr3Bbw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65272/devtools/browser/88d48297-a036-404d-a8be-19f9dc9803d6
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1188: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1666387189886	Marionette	INFO	Stopped listening on port 65281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+pData\\Local\\Temp\\rust_mozprofileWVU97j"
+1666387188617	Marionette	INFO	Marionette enabled
+1666387188621	Marionette	INFO	Listening on port 49334
+WebDriver BiDi listening on ws://127.0.0.1:49325
+Read port: 49334
+1666387188918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileWVU97j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49325/devtools/browser/acfb3ab6-0d8a-4101-a940-28b00eb340a7
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666387234250	Marionette	INFO	Stopped listening on port 49334
+1666387336204	geckodriver	INFO	Listening on 127.0.0.1:49523
+1666387339246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileGDYxMP"
+1666387339461	Marionette	INFO	Marionette enabled
+1666387339464	Marionette	INFO	Listening on port 49533
+WebDriver BiDi listening on ws://127.0.0.1:49524
+Read port: 49533
+1666387339688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileGDYxMP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49524/devtools/browser/c8593f30-5abe-435f-8baa-749cf81a099c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666387353832	Marionette	INFO	Stopped listening on port 49533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666387385929	geckodriver	INFO	Listening on 127.0.0.1:49700
+1666387388957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileJFGzAW"
+1666387389175	Marionette	INFO	Marionette enabled
+1666387389178	Marionette	INFO	Listening on port 49712
+WebDriver BiDi listening on ws://127.0.0.1:49701
+Read port: 49712
+1666387389411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileJFGzAW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49701/devtools/browser/75778010-3c84-464d-bddd-e0b69a7c0f40
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666387406135	Marionette	INFO	Stopped listening on port 49712
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666387441668	geckodriver	INFO	Listening on 127.0.0.1:49775
+1666387444712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileq2snzW"
+1666387444925	Marionette	INFO	Marionette enabled
+1666387444928	Marionette	INFO	Listening on port 49785
+Read port: 49785
+WebDriver BiDi listening on ws://127.0.0.1:49776
+1666387445047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileq2snzW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49776/devtools/browser/a87462a6-48a5-4f1a-b09e-02dfca153a8d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666387457384	Marionette	INFO	Stopped listening on port 49785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666387499777	geckodriver	INFO	Listening on 127.0.0.1:49935
+1666387502818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileW87iEA"
+1666387503034	Marionette	INFO	Marionette enabled
+1666387503037	Marionette	INFO	Listening on port 49945
+WebDriver BiDi listening on ws://127.0.0.1:49936
+Read port: 49945
+1666387503256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofileW87iEA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49936/devtools/browser/4d96d4e6-b417-402c-83d9-549098952906
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+1666387526294	Marionette	INFO	Stopped listening on port 49945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666388060610	geckodriver	INFO	Listening on 127.0.0.1:50420
+1666388063643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilePuckwa"
+1666388063863	Marionette	INFO	Marionette enabled
+1666388063866	Marionette	INFO	Listening on port 50430
+WebDriver BiDi listening on ws://127.0.0.1:50421
+Read port: 50430
+1666388064088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SMALVE~1\\AppData\\Local\\Temp\\rust_mozprofilePuckwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50421/devtools/browser/44615e7f-0391-45e8-a55c-f2999f5d62cd
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8000."
+JavaScript error: http://127.0.0.1:8000/plugins/sparklines/sparkline.js, line 28: TypeError: this.element is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666401374941	Marionette	INFO	Stopped listening on port 50430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
